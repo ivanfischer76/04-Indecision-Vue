@@ -1,5 +1,5 @@
-# 03-fundamentos
-
+# 04-Indecision-Vue
+* Pequeña aplicación de ejemplo hecha con Vue 3 con consultas a API por http en la que podemos hacer preguntas y obtendremos respuestas de Si, No o Quizás.
 ## Project setup
 ```
 npm install
@@ -22,4 +22,3 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-#04-Indecision-Vue
